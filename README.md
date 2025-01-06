@@ -1,4 +1,4 @@
-# clue-wordle
+# Clue Wordle
 
 ## Inspiration
 Clue Wordle was inspired by the popular word game Wordle, with the goal of enhancing the classic experience by adding innovative features that make the game more engaging and challenging. The addition of clues and a timer system aims to create a more dynamic and strategic gameplay experience.
@@ -44,3 +44,8 @@ Potential future developments could include:
 - Creating daily challenges
 - Adding achievement systems
 - Introducing new types of hints or gameplay modes
+
+## Screenshots
+<img width="615" alt="clue wordle board" src="https://github.com/user-attachments/assets/af7decbb-278b-4ce8-85ab-8407e2cbe054" />
+<img width="1392" alt="clue wordle features and play rules" src="https://github.com/user-attachments/assets/087217cb-cc0f-4f2a-9f34-5a74c070b0d2" />
+<img width="630" alt="clue wordle new record" src="https://github.com/user-attachments/assets/1e640100-da4d-4c14-ac41-a88c3674fbf2" />
